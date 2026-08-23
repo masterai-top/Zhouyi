@@ -164,6 +164,32 @@ npm run start
 
 📧 Email：masterai918@gmail.com
 
+
+## 周易源码专题文档
+
+欢迎阅读项目专题文档，了解周易、八字排盘及传统术数相关源码与部署方法。
+
+- [周易源码完整介绍](./docs/zhouyi-source-code.md)
+- [八字排盘源码说明](./docs/bazi-source-code.md)
+- [八字计算器开发指南](./docs/bazi-calculator.md)
+- [易经源码开发说明](./docs/i-ching-source-code.md)
+- [八卦占卜源码说明](./docs/bagua-divination.md)
+- [六爻占卜源码说明](./docs/six-yao-divination.md)
+- [紫微斗数源码说明](./docs/ziwei-doushu-source-code.md)
+- [奇门遁甲源码说明](./docs/qimen-dunjia-source-code.md)
+- [七政四余排盘说明](./docs/qizheng-siyu.md)
+- [大六壬排盘说明](./docs/da-liuren.md)
+- [中国传统命理软件开发](./docs/chinese-astrology-software.md)
+- [周易排盘 API 开发说明](./docs/divination-api.md)
+- [周易源码部署指南](./docs/deployment-guide.md)
+
+### 下载完整源码
+
+前往 [Zhouyi Divination System Source Code](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code)，点击 **Code → Download ZIP** 下载完整周易源码。
+
+> 文档用于介绍相关算法、软件结构和开发思路。具体功能请以仓库当前源码为准。
+>
+> 
 🔑 Keywords
 ##⭐ Why This Project | 项目价值
 ✔ Comprehensive: Combines multiple divination systems into one cohesive platform
