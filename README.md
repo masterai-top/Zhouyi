@@ -188,16 +188,7 @@ npm run start
 前往 [Zhouyi Divination System Source Code](https://github.com/masterai-top/Zhouyi-Divination-System-Source-Code)，点击 **Code → Download ZIP** 下载完整周易源码。
 
 > 文档用于介绍相关算法、软件结构和开发思路。具体功能请以仓库当前源码为准。
->
-> 
-🔑 Keywords
-##⭐ Why This Project | 项目价值
-✔ Comprehensive: Combines multiple divination systems into one cohesive platform
-✔ Fast and Efficient: Optimized for fast calculation and result generation
-✔ Scalable and Modular: Easily extensible with new systems and features
-✔ API-Ready: Ready for integration into other applications and services
-✔ Open Source: Contribute and help improve the platform
-Zhouyi, I-Ching, Bazi, Bagua, Five Elements, Fortune Telling, Divination, Chinese Metaphysics, Prediction System
+
 
 
 
