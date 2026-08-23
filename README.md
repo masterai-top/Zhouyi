@@ -2,7 +2,7 @@
 **I Ching (Yijing) • Bazi • Ziwei • Qimen Dunjia**  
 **周易 • 八字 • 紫微斗数 • 奇门遁甲**
 🔥 Chinese Fortune Telling Platform | 命理系统 | 命理系統  
-👉 Bazi + Bagua + Five Elements | API Ready | SaaS Ready | Commercial Use  
+👉 Bazi + Bagua + Five Elements | API Ready | Commercial Use  
 
 ---
 
@@ -20,8 +20,8 @@ Including core calculation modules:
 - 五行 / 五行 / Five Elements  
 - 易经推演 / 易經推演 / I-Ching divination  
 
-👉 可用于商业化命理平台或API系统  
-👉 可用於商業化命理平台或API系統  
+👉 可用于命理平台或API系统  
+👉 可用於命理平台或API系統  
 👉 Ready for commercial deployment  
 
 ## 🎯 Core Systems | 核心系统
@@ -69,13 +69,8 @@ Including core calculation modules:
 - 算命APP / 算命App / Astrology mobile app  
 - AI预测系统 / AI預測系統 / AI prediction system  
 - 个人命运分析工具 / 個人命運分析工具 / Personal destiny tools  
-- SaaS平台 / SaaS平台 / SaaS platform  
-## 🌐 Use Cases | 应用场景
-Personal divination and life guidance
-Research and academic studies in metaphysics
-Integration into AI-powered cultural applications
-Teaching and learning tool for traditional Chinese metaphysics
-API service for divination predictions
+
+
 ## 📊 Performance | 性能表现
 Chart Generation: < 100ms
 Multi-system analysis: < 300ms
@@ -164,8 +159,9 @@ npm run start
 ---
 
 
-## 📩 联系方式 / 聯絡方式 / Contact
 
+## 📩  问题反馈与交流
+   仅限学术与技术交流
 📱 Telegram：@xuzongbin001
 
 📧 Email：masterai918@gmail.com
