@@ -20,9 +20,7 @@ Including core calculation modules:
 - 五行 / 五行 / Five Elements  
 - 易经推演 / 易經推演 / I-Ching divination  
 
-👉 可用于命理平台或API系统  
-👉 可用於命理平台或API系統  
-👉 Ready for commercial deployment  
+
 
 ## 🎯 Core Systems | 核心系统
 
