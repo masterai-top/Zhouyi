@@ -2,7 +2,7 @@
 **I Ching (Yijing) • Bazi • Ziwei • Qimen Dunjia**  
 **周易 • 八字 • 紫微斗数 • 奇门遁甲**
 🔥 Chinese Fortune Telling Platform | 命理系统 | 命理系統  
-👉 Bazi + Bagua + Five Elements | API Ready | Commercial Use  
+👉 Bazi + Bagua + Five Elements
 
 ---
 
