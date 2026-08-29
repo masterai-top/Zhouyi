@@ -149,12 +149,12 @@ npm run start
 ![综合排盘](Screenshots/paipan.png)  
 **综合排盘总览界面 | Overall Divination Chart**
 ## 📊📊 项目截图 / 專案截圖 / Screenshots
+<img width="638" height="355" alt="微信图片_20260207202225" src="https://github.com/user-attachments/assets/45c7e2d5-81fd-4233-88a8-bb1d2784b010" />
 
+<img width="1247" height="668" alt="微信图片_20260207202257" src="https://github.com/user-attachments/assets/d4709431-e15a-4723-a29f-4cd8471e6164" />
 
-![周易占卜系统产品截图 1](docs/assets/Screenshots/001.png)
-![周易占卜系统产品截图 2](docs/assets/Screenshots/002.png)
-![周易占卜系统产品截图 3](docs/assets/Screenshots/003.png)
-![周易占卜系统产品截图 3](docs/assets/Screenshots/004.png)
+<img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/62e85b7d-0f4c-4805-96d2-a29016505fa9" />
+
 
 ---
 
