@@ -25,18 +25,49 @@
 - 支持前端頁面、產品介绍页和搜尋引擎收錄優化
 - 適合二次開發、介面優化、功能擴展和私有化部署
 - 可配合 GitHub Pages 發布專案主页
+## 📸 排盘界面真实截图 / Screenshots
 
-## GitHub Pages
+![无极八字排盘](Screenshots/wujibazi.png)  
+**无极八字排盘界面 | Wuji Bazi Chart**
 
-專案主页文件位于 `docs/index.html`。如果使用 GitHub Pages，请设置：
+![八字排盘](Screenshots/baizhipaipan.png)  
+**八字排盘界面 | Four Pillars Bazi**
 
-- Source：Deploy from a branch
-- Branch：main
-- Folder：/docs
+![五行分析](Screenshots/wuxing.png)  
+**五行分析界面 | Five Elements Analysis**
 
-發布地址：
+![流年运势](Screenshots/liunian.png)  
+**流年运势分析 | Annual Luck Analysis**
 
-https://masterai-top.github.io/Zhouyi-Divination-System-Source-Code/
+![大六壬排盘](Screenshots/daliuren.png)  
+**大六壬排盘界面 | Da Liuren Chart**
+
+![七政四余排盘](Screenshots/qizhengsiyu.png)  
+**七政四余排盘界面 | Qizheng Siyü Chart**
+
+![七政四余详细](Screenshots/qizheng2.png)  
+**七政四余详细排盘 | Qizheng Detailed Chart**
+
+![综合排盘](Screenshots/paipan.png)  
+**综合排盘总览界面 | Overall Divination Chart**
+## 📊📊 项目截图 / 專案截圖 / Screenshots
+<img width="638" height="355" alt="微信图片_20260207202225" src="https://github.com/user-attachments/assets/45c7e2d5-81fd-4233-88a8-bb1d2784b010" />
+
+<img width="1247" height="668" alt="微信图片_20260207202257" src="https://github.com/user-attachments/assets/d4709431-e15a-4723-a29f-4cd8471e6164" />
+
+<img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/62e85b7d-0f4c-4805-96d2-a29016505fa9" />
+
+
+---
+
+
+
+## 📩  问题反馈与交流
+   仅限学术与技术交流
+📱 Telegram：@xuzongbin001
+
+📧 Email：masterai918@gmail.com
+
 
 ## 多语言 README
 
