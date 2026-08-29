@@ -1,18 +1,21 @@
-# 🔮 Zhouyi Divination System | 周易算命系统 | 玄学|周易排盘|周易占卜系統|周易命理分析系统|周易源码|四柱八字源码|七政四余源码|Bazi
+# 周易占卜系统源码｜Zhouyi Divination System Source Code
+
+## 多语言 README
+
+- [English README](README.en.md)
+- [繁體中文 README](README.zh-TW.md)
+
+
 **I Ching (Yijing) • Bazi • Ziwei • Qimen Dunjia**  
 **周易 • 八字 • 紫微斗数 • 奇门遁甲**
 🔥 Chinese Fortune Telling Platform | 命理系统 | 命理系統  
 👉 Bazi + Bagua + Five Elements
 
 ---
+## 项目定位
 
-## 🧠 项目定位 / 專案定位 / Project Overview
+本仓库聚焦周易占卜系统源码展示，可用于构建在线周易测算、八卦占卜、命理工具、传统文化内容平台和相关应用后台。
 
-本项目是一套完整的周易命理计算系统，基于中国传统易学理论开发  
-本專案是一套完整的周易命理計算系統，基於中國傳統易學理論開發  
-This is a complete Zhouyi-based metaphysics calculation system based on traditional Chinese I-Ching theory  
-
-包含核心命理算法：   
 Including core calculation modules:
 
 - 八字（四柱） / 八字（四柱） / Bazi (Four Pillars)  
@@ -152,8 +155,11 @@ npm run start
 
 <img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/62e85b7d-0f4c-4805-96d2-a29016505fa9" />
 
+![周易占卜系统产品截图 1](docs/Assets/Screenshots/001.png)
+![周易占卜系统产品截图 2](docs/Assets/Screenshots/002.png)
+![周易占卜系统产品截图 3](docs/Assets/Screenshots/003.png)
+![周易占卜系统产品截图 3](docs/Assets/Screenshots/004.png)
 
-👉 Add real screenshots here (very important)
 ---
 
 
